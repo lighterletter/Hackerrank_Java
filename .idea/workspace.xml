@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3a27eb8-57b6-4770-9f7a-34f9912761aa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/c4q/lighterletter/F_Pangrams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/c4q/lighterletter/G_Median.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Hackerrank.iws" />
@@ -86,11 +85,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="F_Pangrams.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="F_Pangrams.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/c4q/lighterletter/F_Pangrams.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.37441498">
+            <state vertical-scroll-proportion="0.0">
               <caret line="16" column="79" selection-start-line="16" selection-start-column="79" selection-end-line="16" selection-end-column="79" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="G_Median.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/c4q/lighterletter/G_Median.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3447738">
+              <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -127,6 +138,7 @@
         <option value="$PROJECT_DIR$/src/c4q/lighterletter/JavaOutputFormatting.java" />
         <option value="$PROJECT_DIR$/src/c4q/lighterletter/E_JavaOutputFormatting.java" />
         <option value="$PROJECT_DIR$/src/c4q/lighterletter/F_Pangrams.java" />
+        <option value="$PROJECT_DIR$/src/c4q/lighterletter/G_Median.java" />
       </list>
     </option>
   </component>
@@ -682,8 +694,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/c4q/lighterletter/F_Pangrams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37441498">
+        <state vertical-scroll-proportion="0.0">
           <caret line="16" column="79" selection-start-line="16" selection-start-column="79" selection-end-line="16" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/c4q/lighterletter/G_Median.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3447738">
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
